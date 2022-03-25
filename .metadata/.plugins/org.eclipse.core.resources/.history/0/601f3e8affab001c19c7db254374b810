@@ -1,0 +1,15 @@
+package pkg;
+
+import java.io.*;
+
+
+public class Welcome {
+
+	public static void main(String[] args) {
+		System.out.print("Welcome!");
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

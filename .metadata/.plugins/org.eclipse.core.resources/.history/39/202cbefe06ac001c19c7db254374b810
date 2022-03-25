@@ -1,0 +1,14 @@
+package shapes;
+import java.io.*;
+import java.util.Scanner;
+import java.util.ArrayList;
+
+public class Shape {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	public static void printArea();
+
+}
